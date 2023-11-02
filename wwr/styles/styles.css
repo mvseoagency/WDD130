@@ -1,3 +1,6 @@
+body {
+   background-color: #F2FDFF;
+  }
 #content{
    max-width: 1600px;
    margin: 0 auto; 
@@ -5,6 +8,30 @@
 nav a{
   text-align: center;
   }
+  nav a:hover{
+   background-color:#1A2C85;
+   }
+  header {
+   background-color: #1A2C85;
+  }
+ 
+
+.book, .join {
+   background-color: #1A2C85;
+  }
+ 
+.book:hover, .join:hover {
+   background-color: #1A2C85;
+  }
+
+.msg{
+   background-color: #B3001B;
+  }
+
+footer{
+   background-color:#1A2C85;
+   }
+  
 #hero-msg h1, #hero-msg h4{
    text-align: center;
    }
@@ -14,4 +41,10 @@ nav a{
 main section{
    text-align: center;
    }
+   
+#background {
+   height: 725px;
+   background-color: #B3001B;
+}
+               
 

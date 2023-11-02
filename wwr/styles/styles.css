@@ -21,15 +21,15 @@ nav a:hover{
    color:#f2fdff;
    }
 
-    header {
+header {
    background-color: #1A2C85;
   }
 
-  h4{
+h4{
    color: #1A2C85;
    }
 
-  .home-title{
+.home-title{
   color: #1A2C85;
   }
  
@@ -71,7 +71,7 @@ footer p a:hover {
    color:#FFD400;
 }      
   
- #hero-img{
+#hero-img{
    width: 100%;
          }  
 #hero-msg h1, #hero-msg h4{

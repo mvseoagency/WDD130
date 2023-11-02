@@ -49,10 +49,10 @@ h4{
   }
   
 .msg h2{
-   color:#1A2C85;
+   color:#FFD400
   }
 .msg p{
-  color:black;
+  color:#F2FDFF;
   }
 
 footer{
@@ -87,6 +87,7 @@ main section{
 #background {
    height: 725px;
    background-color: #B3001B;
+   color:#F2FDFF;
 }
   
 .icon {

@@ -14,12 +14,14 @@ body {
 nav a{
   text-align: center;
   color:#1A2C85;
+  text-decoration: none;
   }
 nav a:hover{
    background-color:#1A2C85;
    color:#f2fdff;
    }
-  header {
+
+    header {
    background-color: #1A2C85;
   }
 
@@ -66,15 +68,7 @@ footer p {
 footer p a:hover {
    text-decoration: underline;
 }      
-   nav a{
-      text-align: center;
-      color:#f2fdff;
-      text-decoration: none;
-      }
-    nav a:hover{
-       background-color:#1A2C85;
-       color:#FFD400;
-       }
+  
  #hero-img{
    width: 100%;
          }  

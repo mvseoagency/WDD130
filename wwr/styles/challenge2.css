@@ -5,8 +5,8 @@ body{
 .hero-img {
    width: 100%;
   }
-main img{
- 
+main{
+ padding:10% auto;
   }
   .img-circle {
    width:300px;

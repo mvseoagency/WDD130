@@ -61,12 +61,14 @@ footer{
    }
 footer a{
 text-decoration: none;
+color:#f2fdff;
 }
 footer p {
    font-size: 1.2em;
 } 
 footer p a:hover {
    text-decoration: underline;
+   color:#FFD400;
 }      
   
  #hero-img{

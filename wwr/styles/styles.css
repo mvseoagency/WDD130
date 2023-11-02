@@ -30,7 +30,9 @@ nav a:hover{
 header {
    background-color: #1A2C85;
   }
-
+  h2 {
+   margin: 0;
+}
 h4{
    color: #1A2C85;
    font-family:"Josefin Sans", 'Trebuchet MS', sans-serif;

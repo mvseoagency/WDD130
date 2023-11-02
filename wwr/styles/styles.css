@@ -59,6 +59,7 @@ h4{
    font-size: 18px;
    padding: 15px 30px;
    margin-top: 50px;
+   border-radius: 5px;
     }
  
 .book:hover, .join:hover {
@@ -81,6 +82,9 @@ h4{
   font-size: .8em;
   padding-bottom: 15px;
   }
+  .card-img{
+   border: 10px solid black;
+   }
   .rivers-card, .camping-card, .rapids-card {margin: 200px 0;}
 footer{
    background-color:#1A2C85;
@@ -116,7 +120,8 @@ footer .social img{
 main section{
    text-align: center;
    }
-   
+main section img {box-sizing: border-box;
+}
 #background {
    height: 725px;
    background-color: #B3001B;

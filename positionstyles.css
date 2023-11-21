@@ -83,15 +83,14 @@
   height: 100px; 
   background-color: green;
   grid-column: 1/2;
-  grid-column-gap: 20px;
+  grid-column-gap: 20%;
 } 
 .yellow3 {
   width: 100%; 
   height: 100px; 
   background-color: gold; 
   grid-column: 2/3;
-  grid-column-gap:0vmax;
-} 
+  } 
 .blue3 {
   width: 100%;
   height: 100px; 

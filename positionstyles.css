@@ -117,14 +117,14 @@
 } 
 .green4 {
   width: 100%;  
-  height: 100px; 
+  height: auto; 
   background-color: green; 
   grid-column:2/3;
   grid-row: 1/2;
 } 
 .yellow4 {
   width: 100%; 
-  height: 100px; 
+  height: auto; 
   background-color: gold;
   grid-column:2/3;
   grid-row: 2/3;
@@ -132,7 +132,7 @@
 
 .blue4 {
   width: 100%; 
-  height: 100px; 
+  height: auto;
   background-color: blue; 
   grid-column:2/3;
   grid-row: 3/4;

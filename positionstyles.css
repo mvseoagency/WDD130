@@ -83,7 +83,7 @@
   height: 100px; 
   background-color: green;
   grid-column: 1/2;
-  grid-column-gap: 20%;
+  column-gap: 20px;
 } 
 .yellow3 {
   width: 100%; 

@@ -85,7 +85,7 @@
   background-color: green;
   grid-column: 1/2;
   justify-items:left;
-  margin-right:10px;
+  grid-column-gap: 20px;
 
   
 } 
@@ -95,7 +95,7 @@
   background-color: gold; 
   grid-column: 2/3;
   justify-items:right;
-  margin-left:10px;
+ grid-column-gap: 20px;
   } 
 .blue3 {
   width: 100%;

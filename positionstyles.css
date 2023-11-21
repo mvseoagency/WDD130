@@ -84,7 +84,7 @@
   height: 100px; 
   background-color: green;
   grid-column: 1/2;
-  justify-items: left;
+  justify-items:left;
 
   
 } 
@@ -93,7 +93,7 @@
   height: 100px; 
   background-color: gold; 
   grid-column: 2/3;
-  justify-items: right;
+  justify-items:right;
   } 
 .blue3 {
   width: 100%;

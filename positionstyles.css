@@ -110,7 +110,7 @@
 }
 .red4 {
   width: 100%; 
-  height: 100px; 
+  height: auto; 
   background-color: red; 
   grid-column:1/2;
   grid-row: 1/4;

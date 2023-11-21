@@ -86,8 +86,6 @@
   background-color: green;
   grid-column: 1/2;
   justify-items:left;
-  grid-column-gap: 20px;
-
   
 } 
 .yellow3 {
@@ -96,8 +94,7 @@
   background-color: gold; 
   grid-column: 2/3;
   justify-items:right;
- grid-column-gap: 20px;
-  } 
+   } 
 .blue3 {
   width: 100%;
   height: 100px; 

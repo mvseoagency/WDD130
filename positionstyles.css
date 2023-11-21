@@ -85,6 +85,7 @@
   background-color: green;
   grid-column: 1/2;
   justify-items:left;
+  column-gap: 10px;
 
   
 } 

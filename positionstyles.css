@@ -113,18 +113,21 @@
   height: 100px; 
   background-color: red; 
   grid-column:1/2;
+  grid-row: 1/4;
 } 
 .green4 {
   width: 100px; 
   height: 100px; 
   background-color: green; 
   grid-column:2/3;
+  grid-row: 1/2;
 } 
 .yellow4 {
   width: 100px; 
   height: 100px; 
   background-color: gold;
   grid-column:2/3;
+  grid-row: 1/2;
 }  
 
 .blue4 {
@@ -132,6 +135,7 @@
   height: 100px; 
   background-color: blue; 
   grid-column:2/3;
+  grid-row: 1/2;
 
 } 
 /* Activity 5 styles */ 

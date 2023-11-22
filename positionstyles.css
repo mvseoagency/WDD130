@@ -176,7 +176,7 @@
 
 }
 .red6 {
-  width: 100%; 
+  width: 100px; 
   height:auto;
   background-color: red; 
   grid-column: 1/5;

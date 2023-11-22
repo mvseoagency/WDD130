@@ -142,7 +142,7 @@
 .content5 {
   /* This is the parent of the activity 5 boxes. */
   height: 400px;
-  display:flexbox;
+  display:block;
 }
 .red5 { 
   width: 100%;
@@ -158,9 +158,9 @@
 } 
 .yellow5 {
   width: 100px; 
-  height: 100px; 
+  height:150px; 
   background-color: gold; 
-  float:right;
+
 
 } 
 .blue5 {

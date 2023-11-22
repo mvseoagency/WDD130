@@ -154,14 +154,14 @@
   height: 100px; 
   background-color: green; 
   z-index: 1;
-  
+  float:left;
 
 } 
 .yellow5 {
   width: 100px; 
   height:auto; 
   background-color: gold; 
-  float:left;
+  
 
 } 
 .blue5 {

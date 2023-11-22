@@ -173,7 +173,7 @@
   /* This is the parent of the activity 6 boxes. */
   display: grid;
   grid-template-columns: 1f 1f 1f 1f 1f 1f;
-height:700px;
+height:600px;
 }
 .red6 {
   width: 100%;

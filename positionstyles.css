@@ -159,7 +159,7 @@
 } 
 .yellow5 {
   width: 100px; 
-  height:150px; 
+  height:auto; 
   background-color: gold; 
   float:right;
 
